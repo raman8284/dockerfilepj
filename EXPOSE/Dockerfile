@@ -1,2 +1,2 @@
-FORM almalinux
+FROM almalinux
 EXPOSE 8080
