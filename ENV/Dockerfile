@@ -1,3 +1,3 @@
 FROM almalinux
-ENV AUTHOR="RAM"
+ENV AUTHOR="RAM"\
     COURSE="DOCKER"
