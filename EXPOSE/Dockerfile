@@ -1,0 +1,2 @@
+FORM almalinux
+EXPOSE 8080
