@@ -1,3 +1,3 @@
 FROM almalinux
-ADD apache-maven-3.9.0-bin.tar /tmp/
+ADD apache-tomcat-9.0.73-embed.tar
 
